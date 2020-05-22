@@ -1,2 +1,2 @@
 # BBC_NEWS_DAILY
-个人每日一篇BBC翻译
+每日一篇BBC翻译 
