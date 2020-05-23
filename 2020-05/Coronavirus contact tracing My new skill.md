@@ -188,8 +188,5 @@
 
 ​	Now it is clear that an army of human contact tracers will be first into battle, so the quality of their training will be crucial.
 
-<<<<<<< HEAD
-​	`显然，现在的陆军联系人跟踪者将会第一时间投入战斗，而训练的质量将成为关键。`
-=======
-​	显然，现在的陆军联系人跟踪者将会第一时间投入战斗，而训练的质量将成为关键。
->>>>>>> a15abbbdc77b9b7f653f688a5f3d413559c6944d
+> 显然，现在的陆军联系人跟踪者将会第一时间投入战斗，而训练的质量将成为关键。
+
