@@ -2,7 +2,7 @@
 
 [Source:https://www.bbc.com/news/technology-52772436](https://www.bbc.com/news/technology-52772436)																													日期:2020-05-23
 
-![](https://ichef.bbci.co.uk/news/660/cpsprodpb/3297/production/_112415921_mediaitem112415920.jpg)
+![撒大声地](https://ichef.bbci.co.uk/news/660/cpsprodpb/3297/production/_112415921_mediaitem112415920.jpg)
 
 **It could be the most important job of our times. And now, after receiving a 95% pass rate in my final exam, I can proudly say, I am a qualified contact tracer.**
 
