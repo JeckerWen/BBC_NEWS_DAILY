@@ -6,31 +6,31 @@
 
 **It could be the most important job of our times. And now, after receiving a 95% pass rate in my final exam, I can proudly say, I am a qualified contact tracer.**
 
-**`这是我们这段时间最重要的工作。最近我在最终的测试的通过率为95%，我能很自豪的说我是个合格的跟踪者。`**
+> **这是我们这段时间最重要的工作。最近我在最终的测试的通过率为95%，我能很自豪的说我是个合格的跟踪者。**
 
 ​	What is not clear is just how well trained most of the people **undertaking** this vital task in the UK will be.
 
-​	`不清楚是，在英国**承担**这项重大任务时，有多少人愿意配合。`
+> 不清楚是，在英国**承担**这项重大任务时，有多少人愿意配合。
 
 ​	A contact tracer does the **detective** work of calling up people known to be infected with a disease and working out where they have been in recent days and who they might have met.
 
-​	`一位追踪者的任务是召集已感染的人并收集最近几日的活动地点和聚会活动信息。`
+> 一位追踪者的任务是召集已感染的人并收集最近几日的活动地点和聚会活动信息。
 
 ​	The idea is then to **track down** those with whom they have been in close **proximity(接近)** and tell them to go into **quarantine**.
 
-​	` 这个主意就是追查与感染者接触亲密的人，并告知其进行隔离。`
+> 这个主意就是追查与感染者接触亲密的人，并告知其进行隔离。
 
 ​	With the government recruiting 25,000 contact tracers to be at the heart of its new test, track and trace strategy, we wanted to experience the sort of training they will receive.
 
-​	`政府召集了25,000名跟踪者作为新型训练、追踪和追踪策略的核心人员，我们想体验这些追踪者的短期训练课程。`
+> 政府召集了25,000名跟踪者作为新型训练、追踪和追踪策略的核心人员，我们想体验这些追踪者的短期训练课程。
 
 ​	Public Health England told us that was not possible - so **instead** I **enrolled(招录)** in the course offered by *America's Johns Hopkins University*, in **conjunction(关联)** with the online training platform Coursera.
 
-​	`但是英国公共卫生部门告诉我们这是不行的-作为代替，我参加了美国约翰霍普金斯大学提供的课程，并与Coursera学习平台的课程结合学习。`
+> 但是英国公共卫生部门告诉我们这是不行的-作为代替，我参加了美国约翰霍普金斯大学提供的课程，并与Coursera学习平台的课程结合学习。
 
 ​	The course, which tens of thousands of people have taken, **consists** of a series of video lectures and multiple choice **quizzes(测验)**.
 
-​	`有数万人选择这门课程，这门课程由一系列的视频和多项选择测验构成。`
+>有数万人选择这门课程，这门课程由一系列的视频和多项选择测验构成。
 
 ![s](https://ichef.bbci.co.uk/news/624/cpsprodpb/1672F/production/_112415919_mediaitem112415918.jpg)
 
