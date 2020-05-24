@@ -8,35 +8,35 @@
 
 > **这是我们这段时间最重要的工作。最近我在最终的测试的通过率为95%，我能很自豪的说我是个合格的跟踪者。**
 
-​	What is not clear is just how well trained most of the people **undertaking** this vital task in the UK will be.
+​	What is not clear is just how well trained most of the people **undertaking(承担)** this vital task in the UK will be.
 
-> 不清楚是，在英国**承担**这项重大任务时，有多少人愿意配合。
+> 不清楚是，在英国**承担**这项重大任务时，如何使大多数人得到有效的培训。
 
-​	A contact tracer does the **detective** work of calling up people known to be infected with a disease and working out where they have been in recent days and who they might have met.
+​	A contact tracer does the **detective(侦查)** work of **calling up(召集)** people known to be infected with a disease and **working out(着手)** where they have been in recent days and who they might have met.
 
 > 一位追踪者的任务是召集已感染的人并收集最近几日的活动地点和聚会活动信息。
 
-​	The idea is then to **track down** those with whom they have been in close **proximity(接近)** and tell them to go into **quarantine**.
+​	The idea is then to **track down(追查)** those with whom they have been in close **proximity(接近)** and tell them to go into **quarantine(隔离)**.
 
-> 这个主意就是追查与感染者接触亲密的人，并告知其进行隔离。
+> 还有一点就是追查与感染者接触亲密的人，并告知其进行隔离。
 
-​	With the government recruiting 25,000 contact tracers to be at the heart of its new test, track and trace strategy, we wanted to experience the sort of training they will receive.
+​	With the government **recruiting(招募)** 25,000 contact tracers to be at the heart of its new test, track and trace strategy, we wanted to experience the sort of training they will receive.
 
 > 政府召集了25,000名跟踪者作为新型训练、追踪和追踪策略的核心人员，我们想体验这些追踪者的短期训练课程。
 
-​	Public Health England told us that was not possible - so **instead** I **enrolled(招录)** in the course offered by *America's Johns Hopkins University*, in **conjunction(关联)** with the online training platform Coursera.
+​	Public Health England told us that was not possible - so **instead(代替)** I **enrolled(招录)** in the course offered by *America's Johns Hopkins University*, in **conjunction(关联)** with the online training platform Coursera.
 
 > 但是英国公共卫生部门告诉我们这是不行的-作为代替，我参加了美国约翰霍普金斯大学提供的课程，并与Coursera学习平台的课程结合学习。
 
-​	The course, which tens of thousands of people have taken, **consists** of a series of video lectures and multiple choice **quizzes(测验)**.
+​	The course, which tens of thousands of people have taken, **consists(组成)** of a series of video **lectures(讲座)** and multiple choice **quizzes(测验)**.
 
->有数万人选择这门课程，这门课程由一系列的视频和多项选择测验构成。
+>有数千人选择了这门课程，这门课程由一系列的讲座视频和多项选择测验构成。
 
 ![s](https://ichef.bbci.co.uk/news/624/cpsprodpb/1672F/production/_112415919_mediaitem112415918.jpg)
 
-**It took me an intense eight hours to complete and I emerged with enormous respect for the discipline.**
+It took me an **intense(激烈)** eight hours to complete and I **emerged(出现、产生)** with **enormous(巨大的)** respect for the **discipline(学科)**.
 
-> **我花费了8个小时完成了这项课程，并非常尊重这项学科**
+> 我花费了8个小时完成了这项课程，我对这门学科产生了极大的尊重。
 
 ​	As the lecturer put it on the very last page: "contact tracing is a complex activity which requires attention to detail and problem-solving skills".
 
@@ -58,7 +58,7 @@
 
 ​	I know much more about the signs and **symptoms(症状)** of the disease - for example, that a loss of taste and smell is reported by around a third of all patients, **despite** [the UK only just adding this](https://www.bbc.co.uk/news/health-52704417) to the **recognised(公认的)** list of symptoms.
 
-> 我学习到了很多关于感染会出现的症状，比如，尽管约有三分之一的患者称他们失去了味觉，但英国政府只将该症状列入了公认的症状名单中。`
+> 我学习到了很多关于新冠会出现的症状和信号，比如，尽管约有三分之一的患者称他们味觉下降，但英国政府只将该症状列入了公认的症状名单中。`
 
 ​	I have learned that of all the places where the disease can spread most easily, [care homes, where vulnerable people are in close contact](https://www.bbc.co.uk/news/health-52284281), are right at the top of the list.
 
@@ -72,7 +72,7 @@
 
 ​	But the key message is how small the window is to alert people who may have been in contact with the **infection(感染)**, before they spread it further - and so how **swiftly(迅速地)** contact tracers need to act.
 
-> 该图的关键信息是告知与患者接触过得人员在病毒进一步传播之前，应该立刻与跟踪人员联系并采取隔离措施，图上的小窗口是需要隔离的时间。
+> 该图的关键信息是告知可能与患者接触过得人员在病毒进一步传播之前，应该立刻与跟踪人员联系并采取隔离措施，图上的小窗口是需要隔离的时间。
 
 ​	The **slide(滑动)** below tells the story:
 
@@ -86,7 +86,7 @@
 
 ​	Stephanie Hare, a data **ethicist(论理学家)** who also took the course, says the other lesson the UK could learn is how important speedy testing is.
 
-> 数据伦理学家Stephanie Hare也参加了这门课程，她说英国的另一门课程是快速测试的重要性。
+> 数据伦理学家Stephanie Hare也参加了这门课程，她说英国的另一门课程是快速检测的重要性。
 
 ​	"Unfortunately, the United Kingdom does not have a testing capability that would allow our population at scale to report symptoms on the first day we experience them, get tested, and get the result back within 24 hours," she said.
 
@@ -102,7 +102,7 @@
 
 ​	There was great **stress(强调)** on the importance of communicating clearly, but also on establishing a rapport with people receiving worrying news.
 
-> 要着重强调交流的重要性，也要建立收到不好消息的人们的关系。
+> 要着重强调交流的重要性，也要与收到不好消息的人们建立关系。
 
 ​	We met **poor(可怜的)** Larry with the hacking cough and then Annette, the **choir(合唱团)** member he had probably infected.
 
@@ -114,7 +114,7 @@
 
 ​	Any contact tracers employed in the UK will be dealing with some very sensitive information, often working from home on their own computers.
 
-> 受任与英国的追踪者需要经常在家通过电脑处理一些敏感性的问题。
+> 受任与英国的追踪者需要经常在家通过电脑处理一些敏感性的信息。
 
 ​	The Johns Hopkins course **outlines(轮廓，概述)** the ethical challenges involved in contact tracing.
 
@@ -122,11 +122,11 @@
 
 ​	The **quiz(测验)** at the end of the section **featured(精选)** some easy questions: if your subject tells you that one of his recent contacts was his girlfriend, should you tell his wife? Err, no.
 
-> 在最后精选部分测验时有一些简单的问题："你的联系对象告诉你他最近接触的人有一个是他的女朋友，你应该告诉他的妻子么？"嗯..，当然不。
+> 在最后精选部分测验时有一些简单的问题："你的跟踪对象告诉你他最近接触的人有一个是他的女朋友，你应该告诉他的妻子么？"嗯..，当然不。
 
 ​	But what about the contact telling you she had spent a lot of time in a pub where you know your friends and family hang out?
 
-> 但是如果你的联系对象告诉她经常在一家酒吧，而您知道你的朋友和他的家人在外面闲逛。
+> 但是如果你的跟踪对象告诉她经常在一家酒吧，而您知道你的朋友和他的家人在外面闲逛。
 
 ​	You cannot tell them they may be in danger, said the **instructor(教官)**.
 
@@ -138,7 +138,7 @@
 
 ​	While this course is about old-fashioned **manual(手册)** contact tracing - the technique used to **combat(战斗)** the **Ebola(埃博拉)** **outbreak(爆发)** and other **epidemics(流行疾病)** - it does also run through some of the technology tools which could help.
 
-> 虽然课程讲老版本的手册讲的是与埃博拉病毒和其他流行疾病战斗的技术，但是其中一些技术方法对抗击新冠也有所帮助。
+> 虽然课程讲老版本的手册讲的是以前与埃博拉病毒和其他流行疾病战斗的技术，但是其中一些技术方法对抗击新冠也有所帮助。
 
 ​	These include the Bluetooth contact tracing apps currently being developed in a number of countries, including the UK.
 
@@ -154,17 +154,17 @@
 
 ​	Overall, the course gives a detailed and **inspiring(鼓舞)** but also **realistic(现实)** view of what contact tracing can achieve.
 
-> 总体而言，该课程对联系人跟踪的具体实现进行了详细、充满启发性且现实的看法。
+> 总体而言，该课程对联系人跟踪的具体实现给出了详细、充满启发性且现实的看法。
 
 ​	In normal **circumstances(情况)**, out of lockdown, someone with Covid-19 will infect between two and three other people.
 
 > 一般情况下，解除封锁令，患有新冠病毒的人会一传二，二传三。
 
-​	If that can be reduced to just one person then the epidemic could be brought under control.
+​	If that can be reduced to just one person then the **epidemic(传染性)** could be brought under control.
 
-> 如果减少至一人，则可以对其进行控制。
+> 如果减少至一人，其传染性就可以得到控制。
 
-### How does it compare with the UK? 与英国相比，如何呢？
+### How does it compare with the UK? 这个课程与英国的相比，如何呢？
 
 ​	There have been reports that the training process for new contact tracers in the UK is pretty **sketchy(粗略)** - a few PowerPoint slides and some scripts for callers to follow.
 
@@ -180,13 +180,13 @@
 
 ​	"We're very confident that we've got a good and **robust(强大的)** system in place. It's been tried and tested."
 
-> "我们已经有一个已经通过测试和使用过的很棒很强大的系统，我们对其非常有信心"。
+> "我们有一个已经通过测试和使用过的很棒很强大的系统，我们对其非常有信心"。
 
 ​	**Originally(本来，原来)** the government **indicated(指示)** that the Bluetooth contact tracing app currently being tested on the **Isle(小岛)** of Wight would be key to efforts to control the virus once lockdown was eased.
 
-> 原先政府的指示是一旦接触封锁，在Wight岛上蓝牙联系人追踪技术将是控制病毒的关键手段。
+> 原先政府的指示是一旦解除封锁，在Wight岛上蓝牙联系人追踪技术将是控制病毒的关键手段。
 
 ​	Now it is clear that an army of human contact tracers will be first into battle, so the quality of their training will be crucial.
 
-> 显然，现在的陆军联系人跟踪者将会第一时间投入战斗，而训练的质量将成为关键。
+> 显然，现在的陆军联系人跟踪者将会第一时间投入战斗，而培训的质量将成为关键。
 
